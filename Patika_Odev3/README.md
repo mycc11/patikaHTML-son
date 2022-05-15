@@ -1,2 +1,4 @@
 # HTML başlangıç patikası 3.ödevi
-Son ödev eklenilecek.
+Sadece HTML tag leri kullanılarak yapılmaya çalışıldı.
+
+![img](/images/HTML_son_odev.png)
